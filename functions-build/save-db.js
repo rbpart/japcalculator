@@ -1,5 +1,5 @@
 const faunadb = require("faunadb"); /* Import faunaDB sdk */
-c
+
 /* configure faunaDB Client with our secret */
 const q = faunadb.query;
 const client = new faunadb.Client({
